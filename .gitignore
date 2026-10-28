@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+backend/.venv/
+backend/venv/
+**/__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editor
+.vscode/
